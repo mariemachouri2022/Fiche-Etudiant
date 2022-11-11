@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fiche Etudiant</string>
+    <string-array name="classe">
+        <item>DSI2</item>
+        <item>DSI3</item>
+        <item>RSI2</item>
+        <item>RSI3</item>
+        <item>SEM2</item>
+        <item>SEM3</item>
+    </string-array>
+</resources>

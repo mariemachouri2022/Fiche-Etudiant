@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/custom_classse_icon.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/custom_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/custom_email_icon.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/custom_nomprenom_icon.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_classe.xml" value="0.106" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_classe_focus.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_date.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_date_focus.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_email_focus.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_nomprenom.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_nomprenom_focus.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_valider.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/drawable/ic_webview.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Intents_Dialogues/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
